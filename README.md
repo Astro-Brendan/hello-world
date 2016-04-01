@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+My name is Brendan.
+
+I am interested in programming, space, science and maths.
